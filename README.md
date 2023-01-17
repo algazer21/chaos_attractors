@@ -1,2 +1,2 @@
-# chaos_attractors
-Chaotic attractor simulations written in C#
+# Chaos Attractors
+Chaotic attractor simulations written in C
