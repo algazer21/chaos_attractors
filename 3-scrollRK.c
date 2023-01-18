@@ -1,7 +1,6 @@
 /**********************************************************
-						Alan García Zermeño
-			 Para el curso de Métodos numéricos
-						  CIMAT 5/12/22
+Alan García Zermeño
+5/12/22
 Resuelve el sistema dinámico de Three-Scroll Unified CS
 ***********************************************************/
 #include <stdio.h>
